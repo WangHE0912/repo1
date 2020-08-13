@@ -15,6 +15,7 @@ import java.io.IOException;
                           String str=getRequestURL()
              获取协议和版本号:String str=getProtocol()
              获取ip地址:String str=getRemoAddr()
+			小鸟伏特加, 整这搞, 雷霆嘎巴, ZBC
 * */
 @WebServlet("/user/find")
 public class ServletDemo1 extends HttpServlet {
